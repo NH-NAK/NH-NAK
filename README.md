@@ -32,3 +32,4 @@
 
 - 🌐 Website: [https://nh-nak.vercel.app/](https://nh-nak.vercel.app/)
 - 💬 Telegram: [t.me/nhnak](https://t.me/nhnak)
+- 💬 Telegram: [t.me/zero_fail](https://t.me/zerofail2026)
